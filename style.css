@@ -1,3 +1,57 @@
 body {
-
+  background-color: #DCAB6B;
 }
+
+h1 {
+  color: #6E0D25;
+  font-size: 50px;
+  letter-spacing: 5px;
+}
+
+#borderimg2 {
+  border: 15px solid;
+  padding: 15px;
+  border-image: url(https://i.pinimg.com/originals/f6/24/06/f624067dff832b96a52e233bb8c8795b.jpg) 20% round;
+} 
+
+h3 {
+  color: pink 
+}
+
+p3 {
+  color: #6A381F;
+  font-size: 20px
+}
+
+p {
+  color: #FFFFB3;
+  font-size: 25px
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+h2 {
+  color: #6E0D25;
+  font-size: 30px
+}
+
+ol {
+  color: #6A381F;
+  font-size: 18px
+}
+
+#t01 {
+  color: #6A381F;
+  width: 100%;    
+  background-color: #f1f1c1;
+  text-align: center
+}
+
+pt01 {
+  color: #6E0D25;
+  font-size: 30px;
+  font-weight: bold; 
+}
+
